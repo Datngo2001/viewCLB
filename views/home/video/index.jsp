@@ -35,7 +35,7 @@
             </div>
         </div>
     <!-- Footer -->
-    <%@include file="footer.jsp" %>
+    <%@include file="../footer.jsp" %>
     <!--Login portal-->
     <%@include file="../login/index.jsp" %>
     <script src="${pageContext.request.contextPath}/resources/js/mainpage.js"></script>
